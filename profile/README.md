@@ -32,6 +32,28 @@ We’re always open to collaboration! Whether you’re an AI researcher, develop
 3. **Join the Discussion**: Contribute to our GitHub discussions, share ideas, or report issues in the repository.
 
 
+## Our Stack
+
+At **RDS AI**, we use the following tools and technologies to build our innovative AI systems:
+
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+
+
+- **Frameworks & Libraries**:  
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+
+- **Databases**:  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+- **Cloud & DevOps**:  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+
 ## License
 
 This repository is under the [RDS AI Confidential License] License. See the [LICENSE](./LICENSE) file for more details.
