@@ -22,7 +22,7 @@ At **RDS AI**, we aim to redefine the future of artificial intelligence by devel
 ### 2. **[Other Key Projects]**
 - **[Eco Grow AI]** – A revolutionary artificial intelligence platform designed to provide actionable insights for farmers and gardeners to optimize crop resilience to climate change and advanced global food security. 
 
-## Contributing 🤝
+## Contributing
 
 We’re always open to collaboration! Whether you’re an AI researcher, developer, or enthusiast, we welcome your contributions to help further our mission.
 
@@ -31,11 +31,8 @@ We’re always open to collaboration! Whether you’re an AI researcher, develop
 2. **Submit Pull Requests**: If you’ve made improvements or bug fixes, submit a pull request for review.
 3. **Join the Discussion**: Contribute to our GitHub discussions, share ideas, or report issues in the repository.
 
-### Contact Us 📧
 
-If you're interested in collaborating or learning more about **RDS AI**, feel free to reach out to us:
-
-## License 📄
+## License
 
 This repository is under the [RDS AI Confidential License] License. See the [LICENSE](./LICENSE) file for more details.
 
