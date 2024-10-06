@@ -19,8 +19,8 @@ At **RDS AI**, we aim to redefine the future of artificial intelligence by devel
 
 [Learn more about RDS here](#link-to-rds-docs).
 
-### 2. **[Other Key Projects]**
-- **[Eco Grow AI]** – A revolutionary artificial intelligence platform designed to provide actionable insights for farmers and gardeners to optimize crop resilience to climate change and advanced global food security. 
+### 2. **Other Key Projects**
+- **Eco Grow AI** – A revolutionary artificial intelligence platform designed to provide actionable insights for farmers and gardeners to optimize crop resilience to climate change and advanced global food security. 
 
 ## Contributing
 
