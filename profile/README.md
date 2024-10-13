@@ -17,11 +17,6 @@ At **RDS AI**, we aim to redefine the future of artificial intelligence by devel
   - Short-term and long-term memory systems for context-aware responses.
   - Customizable AI outputs based on memory and past knowledge.
 
-[Learn more about RDS here](#link-to-rds-docs).
-
-### 2. **Other Key Projects**
-- **Eco Grow AI** – A revolutionary artificial intelligence platform designed to provide actionable insights for farmers and gardeners to optimize crop resilience to climate change and advanced global food security. 
-
 ## Contributing
 
 We’re always open to collaboration! Whether you’re an AI researcher, developer, or enthusiast, we welcome your contributions to help further our mission.
